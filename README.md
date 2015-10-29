@@ -1,4 +1,4 @@
-# Chuwi Vi8
+# Chuwi Vi8 e ICC i37W (No Brazil) - São praticamente os mesmos tablets.
 
 [![Join the chat at https://gitter.im/Manouchehri/vi8](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Manouchehri/vi8?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
